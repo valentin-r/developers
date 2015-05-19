@@ -1,6 +1,6 @@
-Valentin Radigois
-Benoit Silvares
-Lionel Capt
-Antonio Espinosa
-Romain Sempe
-Foobar
+VALENTIN RADIGOIS
+BENOIT SILVARES
+LIONEL CAPT
+ANTONIO ESPINOSA
+ROMAIN SEMPE
+FOOBAR
